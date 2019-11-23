@@ -1,4 +1,4 @@
-# React and Parcel Boilerplate
+# 📦 React and Parcel Boilerplate
 
 Get a head start on React application development and prototyping with this easy to use starter kit.
 
